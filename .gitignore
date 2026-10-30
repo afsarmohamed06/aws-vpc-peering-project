@@ -1,0 +1,9 @@
+# Never commit private keys or credentials
+*.pem
+*.ppk
+*.key
+.aws/
+credentials
+config
+known_hosts
+.env
